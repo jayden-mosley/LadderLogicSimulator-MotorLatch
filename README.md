@@ -6,7 +6,7 @@ Press "Start" → The motor turns ON and remains ON (latching enabled).
 Press "Stop" → The motor turns OFF, breaking the circuit.
 The UI updates dynamically to show the current state.
 
-LadderLogicSimulator-MotorLatch/Screen Shot 2025-03-17 at 13.25.45.png
+![Ladder Logic Simulator](screenshot.png)
 
 1) LadderLogicSimulator Class
 Encapsulates the entire logic:
